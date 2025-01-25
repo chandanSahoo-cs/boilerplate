@@ -16,8 +16,7 @@
 
 # Steps to setup
 
-- git clone
-- cd boilerplate
+- git clone https://github.com/chandanSahoo-cs/boilerplate.git
 - npm i
 - env is already given so no need for now
 - npx prisma migrate dev --name init (don;t do this now)
